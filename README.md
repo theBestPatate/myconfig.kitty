@@ -15,7 +15,7 @@ sudo apt install kitty
 ## Clone this repo in .config/kitty
 
 ```bash
-git clone git@github.com:theBestPatate/myconfig.kitty.git ~/.config/kitty
+git clone https://github.com/theBestPatate/myconfig.kitty.git ~/.config/kitty
 ```
 
 You're good to go!
